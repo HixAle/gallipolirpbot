@@ -17,7 +17,7 @@ const client = new Client({
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
 const STAFF_CHANNEL_ID = '1509571947904635123';
-const TOKEN = 'MTM5Mjg4NTQ1MzcxOTQ3MDEwMQ.Gqdkib.rSwcLr4340dAh88FrxDGejueLfq9aVVlPY0l6o';
+const TOKEN = 'MTM5Mjg4NTQ1MzcxOTQ3MDEwMQ.G8YpT1.LW2h8bFSDtt3LgqB6s5JxDhpUSgoP6Dnz3SG3A';
 
 // ─── DOMANDE CANDIDATURA ───────────────────────────────────────────────────
 const DOMANDE = [
